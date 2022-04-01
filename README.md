@@ -1,5 +1,6 @@
 # CountriesApp
-Countries App API
+Countries Api : https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/countrydataset.json <br />
+Swipe to see other countries!
 
 ## Contents
 1) Retofit
