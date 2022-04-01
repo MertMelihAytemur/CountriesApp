@@ -20,6 +20,6 @@ Swipe to see other countries!
 ![image](https://user-images.githubusercontent.com/55717182/161272775-74bc7973-c706-448e-806e-93ff5ecb531a.png)<br />
 
 ![image](https://user-images.githubusercontent.com/55717182/161272268-4300b7f1-ae50-46bf-9049-91bb1d073106.png)
-![image](https://user-images.githubusercontent.com/55717182/161272850-4325d85c-e295-4c17-bf6a-7481f3a45abb.png)
+![image](https://user-images.githubusercontent.com/55717182/161272850-4325d85c-e295-4c17-bf6a-7481f3a45abb.png)<br />
 
 
